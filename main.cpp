@@ -1,7 +1,6 @@
 #include <iostream>
 #include <raylib.h>
 #include "Lib/Log.h"
-#include <imgui.h>
 
 using namespace Core_Logger;
 
