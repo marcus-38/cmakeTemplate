@@ -81,3 +81,5 @@ fabric.properties
 # visual studio
 .vs/
 out/
+CMakeSettings.json
+
