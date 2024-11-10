@@ -20,6 +20,11 @@
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
+# Some files
+.idea/clionTest.iml
+.idea/editor.xml
+.idea/modules.xml
+
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
